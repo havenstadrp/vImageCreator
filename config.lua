@@ -11,6 +11,6 @@ Config.Category = 'all' -- select a custom category | set this to 'all' if you w
 
 -- Permission
 Config.owners = {
-    ['license:df845523fc29c5159ece179359f22a741ca2ca9a'] = true,
+    [''] = true,
     --add more here
 }
